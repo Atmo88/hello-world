@@ -1,5 +1,5 @@
 # hello-world
-My first GitHub repo
+My first GitHub project for testing
 
 Hello, this is the first change I'm doing ever. I'm gonna commit this one soon as well.
 My name is Marek, I'm 23 y.o., eager to become a Python developer.
